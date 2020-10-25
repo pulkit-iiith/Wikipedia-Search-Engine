@@ -1,0 +1,3 @@
+give this folder as path_to_invertedindex_output while running code
+
+$ bash index.sh <path_to_wiki_dump> <path_to_invertedindex_output> <invertedindex_stat.txt>
